@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hurleywflow
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on JavaScript, React, Firebase, HTML, CSS, Bootstrap, WordPress, Git, Node.js, MongoDB, PHP, MySQL, Python. 
-- 💞️ I’m looking to collaborate on small projects or jobs opportunities 
+- 💞️ I’m looking to collaborate on projects or jobs opportunities 
 - 📫 Contact me by github, email: hurleywflow@gmail.com, sms: 0423099677
 
 <!---
