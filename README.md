@@ -8,7 +8,7 @@ Versatile and accomplished web designer with expertise creating new websites and
 
 * 🌍  I'm based in Melbourne
 * ✉️  You can contact me at [hurleywflow@gmail.com](mailto:hurleywflow@gmail.com)
-* 🧠  I'm learning React, TypeScipt
+* 🧠  I'm learning JavaScript, React, TypeScript
 * 🤝  I'm open to collaborating on Frontend project
 
 ### Skills
