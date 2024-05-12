@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hurley Nguyen
 =====================================================================================================================================
 
-I’m Junior Web Developer!
+I’m a Web Developer!
 -------------------------
 
-Versatile and accomplished web designer with expertise creating new websites and applications. Proven success leading and driving enterprise-wide projects towards completion within agreed timelines and budgetary constraints in Agile environments. Good understanding of relevant legislation regulations and protocols concerning construction, building, health, and safety. Adept at improving network performance, creating backups, and enhancing network speed. Demonstrated ability to determine complex technical issues through root cause analysis and offer robust solutions to minimize system downtime. Track record of diagnosing and troubleshooting problems in response to customer reported incident via trouble tickets. Talent for coordinating, implementing, and maintaining installation and operation of customer application systems.
+Versatile and accomplished web designer with expertise in creating new websites and applications. Proven success leading and driving enterprise-wide projects towards completion within agreed timelines and budgetary constraints in Agile environments. Good understanding of relevant legislation regulations and protocols concerning construction, building, health, and safety. Adept at improving network performance, creating backups, and enhancing network speed. Demonstrated ability to determine complex technical issues through root cause analysis and offer robust solutions to minimize system downtime. Track record of diagnosing and troubleshooting problems in response to customer-reported incidents via trouble tickets. Talent for coordinating, implementing, and maintaining the installation and operation of customer application systems.
 
 * 🌍  I'm based in Melbourne
 * ✉️  You can contact me at [hurleywflow@gmail.com](mailto:hurleywflow@gmail.com)
-* 🧠  I'm learning JavaScript, React, TypeScript
-* 🤝  I'm open to collaborating on Frontend project
+* 🧠  I'm learning JavaScript, React, and TypeScript
+* 🤝  I'm open to collaborating on a Frontend project
 
 ### Skills
 
